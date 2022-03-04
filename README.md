@@ -1,2 +1,3 @@
-# unity2_UERN
-Here are some activities and projects I did during the second period of the university
+// Here are some activities and projects 
+// I did during the first period of the university
+// some codes are written in C, Java or Python
